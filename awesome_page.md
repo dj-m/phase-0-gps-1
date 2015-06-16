@@ -7,4 +7,4 @@ git status - state of branch
 git commit -m "some notes" - commit changes
 git push origin master - push changes to github
 git checkout -b "new branch" - add & switch to new branch
-subl . - launch sublime
+subl . - launch sublime!!!
